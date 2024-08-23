@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    {% block head %}
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{% block title %}{% endblock %} | stonks</title>
+    <script src="https://cdn.tailwindcss.com?plugins=forms"></script>
+    {% endblock %}
+  </head>
+  <body>
+    <div id="content">{% block content %}{% endblock %}</div>
+    <div id="footer" class="flex justify-center">
+      <p class="text-xs">&copy; Copyright 2024</p>
+    </div>
+  </body>
+</html>
