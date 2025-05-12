@@ -2,6 +2,8 @@
 
 This roadmap is designed to guide the development of `stonks` a Flask-based web application that allows users to manage a personalized stock watchlist. Over the course of two weeks, the intern will learn the basics of Flask, how to structure a web application, manage user authentication, integrate third-party APIs for real-time stock data, and visualize data. The project will also involve setting up a development environment using Poetry for dependency management and deploying the application. By the end of this roadmap, the intern will have built a fully functioning stock watchlist application with features such as user sign-up, login, personalized watchlists, and detailed stock information.
 
+---
+
 ### **Week 1: Flask Basics and Application Development**
 
 **Day 1: Introduction to Flask and Project Setup**
@@ -46,6 +48,8 @@ This roadmap is designed to guide the development of `stonks` a Flask-based web 
 - Recap the topics covered during the week.
 - Address any issues or bugs in the application.
 - Prepare for the more advanced topics in the upcoming week.
+
+---
 
 ### **Week 2: Advanced Topics and Final Project**
 
